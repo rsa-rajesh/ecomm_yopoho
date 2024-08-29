@@ -1,0 +1,30 @@
+{
+    "name": "bagisto/rest-api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Devansh Bawari",
+            "email": "devansh.bawari419@webkul.in"
+        },  
+        {
+            "name": "Vivek Sharma",
+            "email": "viveksh047@webkul.in"
+        }
+    ],
+    "require": {
+        "darkaonline/l5-swagger": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webkul\\RestApi\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Webkul\\RestApi\\Providers\\RestApiServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}
