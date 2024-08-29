@@ -11715,6 +11715,7 @@ class ComposerStaticInit39622e2e478c3641803ae55003acc4e6
         'Webkul\\Payment\\Listeners\\GenerateInvoice' => __DIR__ . '/../..' . '/packages/Webkul/Payment/src/Listeners/GenerateInvoice.php',
         'Webkul\\Payment\\Payment' => __DIR__ . '/../..' . '/packages/Webkul/Payment/src/Payment.php',
         'Webkul\\Payment\\Payment\\CashOnDelivery' => __DIR__ . '/../..' . '/packages/Webkul/Payment/src/Payment/CashOnDelivery.php',
+        'Webkul\\Payment\\Payment\\Esewa' => __DIR__ . '/../..' . '/packages/Webkul/Payment/src/Payment/Esewa.php',
         'Webkul\\Payment\\Payment\\MoneyTransfer' => __DIR__ . '/../..' . '/packages/Webkul/Payment/src/Payment/MoneyTransfer.php',
         'Webkul\\Payment\\Payment\\Payment' => __DIR__ . '/../..' . '/packages/Webkul/Payment/src/Payment/Payment.php',
         'Webkul\\Payment\\Providers\\EventServiceProvider' => __DIR__ . '/../..' . '/packages/Webkul/Payment/src/Providers/EventServiceProvider.php',

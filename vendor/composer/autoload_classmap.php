@@ -10515,6 +10515,7 @@ return array(
     'Webkul\\Payment\\Listeners\\GenerateInvoice' => $baseDir . '/packages/Webkul/Payment/src/Listeners/GenerateInvoice.php',
     'Webkul\\Payment\\Payment' => $baseDir . '/packages/Webkul/Payment/src/Payment.php',
     'Webkul\\Payment\\Payment\\CashOnDelivery' => $baseDir . '/packages/Webkul/Payment/src/Payment/CashOnDelivery.php',
+    'Webkul\\Payment\\Payment\\Esewa' => $baseDir . '/packages/Webkul/Payment/src/Payment/Esewa.php',
     'Webkul\\Payment\\Payment\\MoneyTransfer' => $baseDir . '/packages/Webkul/Payment/src/Payment/MoneyTransfer.php',
     'Webkul\\Payment\\Payment\\Payment' => $baseDir . '/packages/Webkul/Payment/src/Payment/Payment.php',
     'Webkul\\Payment\\Providers\\EventServiceProvider' => $baseDir . '/packages/Webkul/Payment/src/Providers/EventServiceProvider.php',
